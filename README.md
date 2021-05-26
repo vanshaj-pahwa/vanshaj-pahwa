@@ -25,6 +25,6 @@
  
  
   <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" width="40" height="45" />
-<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" width="40" height="40"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="35" height="35"  />
 
 </p>
