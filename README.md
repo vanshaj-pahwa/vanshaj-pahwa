@@ -3,7 +3,6 @@
 • I love to explore different fields of technology and you can check out my projects on my profile! <br>
 • I have interned at:<br>
                      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Inventif Web as a Marketing Intern (Dec 2020 - Jan 2021)<br>
-                     <br>
                      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Softech Infoways as a Java Developer Intern (Dec 2020 - Jan 2021)<br>
 • Trying hands on data structures and algorithms (competitive programming) as well.
 <p float="left"> 
