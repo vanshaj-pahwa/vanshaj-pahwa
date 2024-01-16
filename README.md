@@ -14,7 +14,8 @@ I'm Vanshaj Pahwa, a passionate Software Engineer from India.
 - Database: MySQL, PostgreSQL
 - Tools: VS Code, Intellij IDEA, NetBeans IDE
 
-**Connect with Me:**  
+**Connect with Me:**
+
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vanshajpahwa07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshaj-pahwa) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanshaj.pahwa) 
