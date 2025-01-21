@@ -5,12 +5,13 @@ I'm Vanshaj Pahwa, a passionate Software Engineer from India.
 **About Me:**
 - 👨‍💻 I'm currently working as a Software Engineer at <a href='https://hashedin.com/'>HashedIn By Deloitte</a>.
 - 🎓 I graduated with a Bachelor's degree in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi.
-- 💡 I enjoy working on full-stack web development, with expertise in technologies like Spring Boot and React.js.
+- 💡 I enjoy working on full-stack web development, with expertise in technologies like Spring Boot, Node.js and React.js.
 
 **Tech Stack:**
-- Languages: Java, C/C++, HTML5, CSS3, JavaScript
+- Languages: Java, C/C++, HTML5, CSS3, JavaScript, TypeScript
 - Front-end: React.js
-- Back-end: Spring Boot
+- Libraries / Frameworks: Redux, GraphQL, Strapi, Java Swing
+- Back-end: Spring Boot, Node.js
 - Database: MySQL, PostgreSQL
 - Tools: VS Code, Intellij IDEA, NetBeans IDE
 
