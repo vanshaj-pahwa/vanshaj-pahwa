@@ -9,7 +9,7 @@ I'm Vanshaj Pahwa, a passionate Software Engineer from India.
 
 **Tech Stack:**
 - Languages: Java, C/C++, HTML5, CSS3, JavaScript, TypeScript
-- Front-end: React.js
+- Front-end: React.js, Next.js
 - Libraries / Frameworks: Redux, GraphQL, Strapi, Java Swing
 - Back-end: Spring Boot, Node.js
 - Database: MySQL, PostgreSQL
