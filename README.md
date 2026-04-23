@@ -3,9 +3,9 @@
 I'm Vanshaj Pahwa, a passionate Software Engineer from India.
 
 **About Me:**
-- 👨‍💻 I'm currently working as a Software Engineer at <a href='https://www.alterest.co/'>Alterest</a>.
-- 🎓 I graduated with a Bachelor's degree in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi.
-- 💡 I enjoy working on full-stack web development, with expertise in technologies like React.js, Next.js, Node.js and FastAPI
+- I'm currently working as a Software Engineer at <a href='https://www.alterest.co/'>Alterest</a>.
+- I graduated with a Bachelor's degree in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi.
+- I enjoy working on full-stack web development, with expertise in technologies like React.js, Next.js, Node.js and FastAPI
 
 **Tech Stack:**
 - Languages: JavaScript, TypeScript, Python, Java
